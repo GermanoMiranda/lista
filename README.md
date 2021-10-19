@@ -5,3 +5,5 @@
 ## Características
 
 * Lista diária de tarefas
+
+License: MIT
